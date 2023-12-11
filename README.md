@@ -1,4 +1,4 @@
-# Customer Churn Prediction Model
+# Customer Churn Prediction Models
 
 This project aims to predict customer churn using supervised machine learning models. 
 ## Process Overview
